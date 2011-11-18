@@ -1,0 +1,503 @@
+[Tue Oct 25 07:45:49 2011] [error] [client 127.0.0.1] File does not exist: /Users/nacho/Sites/web-bowling/mobiledev
+[Tue Oct 25 07:46:06 2011] [error] [client 127.0.0.1] File does not exist: /Users/nacho/Sites/web-bowling/js/web-bowling.js, referer: http://web-bowling/
+[Tue Oct 25 07:46:06 2011] [error] [client 127.0.0.1] File does not exist: /Users/nacho/Sites/web-bowling/favicon.ico, referer: http://localhost/mobiledev/
+[Tue Oct 25 07:46:06 2011] [error] [client 127.0.0.1] File does not exist: /Users/nacho/Sites/web-bowling/favicon.ico, referer: http://web-bowling/
+[Tue Oct 25 07:46:25 2011] [error] [client 127.0.0.1] File does not exist: /Users/nacho/Sites/web-bowling/js/web-bowling.js, referer: http://localhost/
+[Tue Oct 25 07:46:25 2011] [error] [client 127.0.0.1] File does not exist: /Users/nacho/Sites/web-bowling/favicon.ico
+[Tue Oct 25 07:46:29 2011] [error] [client 127.0.0.1] File does not exist: /Users/nacho/Sites/web-bowling/lib, referer: http://localhost/display.html
+[Tue Oct 25 07:46:29 2011] [error] [client 127.0.0.1] File does not exist: /Users/nacho/Sites/web-bowling/box2djs.min.js, referer: http://localhost/display.html
+[Tue Oct 25 07:46:29 2011] [error] [client 127.0.0.1] File does not exist: /Users/nacho/Sites/web-bowling/js/display.js, referer: http://localhost/display.html
+[Tue Oct 25 07:46:29 2011] [error] [client 127.0.0.1] File does not exist: /Users/nacho/Sites/web-bowling/favicon.ico
+[Tue Oct 25 07:47:24 2011] [error] [client 127.0.0.1] File does not exist: /Users/nacho/Sites/web-bowling/js/display.js, referer: http://localhost/display.html
+[Tue Oct 25 07:47:24 2011] [error] [client 127.0.0.1] File does not exist: /Users/nacho/Sites/web-bowling/favicon.ico
+[Tue Oct 25 07:48:16 2011] [error] [client 127.0.0.1] File does not exist: /Users/nacho/Sites/web-bowling/favicon.ico
+[Tue Oct 25 08:00:02 2011] [error] [client 127.0.0.1] File does not exist: /Users/nacho/Sites/web-bowling/js/web-bowling.js, referer: http://web-bowling/
+[Tue Oct 25 08:00:03 2011] [error] [client 127.0.0.1] File does not exist: /Users/nacho/Sites/web-bowling/favicon.ico
+[Tue Oct 25 09:17:19 2011] [error] [client 127.0.0.1] File does not exist: /Users/nacho/Sites/web-bowling/favicon.ico
+[Tue Oct 25 11:23:42 2011] [error] [client 127.0.0.1] File does not exist: /Users/nacho/Sites/web-bowling/favicon.ico
+[Tue Oct 25 11:23:50 2011] [error] [client 127.0.0.1] File does not exist: /Users/nacho/Sites/web-bowling/favicon.ico
+[Tue Oct 25 11:25:29 2011] [error] [client 127.0.0.1] File does not exist: /Users/nacho/Sites/web-bowling/favicon.ico
+[Tue Oct 25 11:25:47 2011] [error] [client 127.0.0.1] File does not exist: /Users/nacho/Sites/web-bowling/favicon.ico
+[Tue Oct 25 13:33:42 2011] [error] [client 127.0.0.1] File does not exist: /Users/nacho/Sites/web-bowling/favicon.ico
+[Tue Oct 25 13:34:03 2011] [error] [client 127.0.0.1] File does not exist: /Users/nacho/Sites/web-bowling/favicon.ico
+[Tue Oct 25 13:34:44 2011] [error] [client 127.0.0.1] File does not exist: /Users/nacho/Sites/web-bowling/favicon.ico
+[Tue Oct 25 15:37:12 2011] [error] [client 127.0.0.1] File does not exist: /Users/nacho/Sites/web-bowling/favicon.ico
+[Tue Oct 25 15:37:15 2011] [error] [client 127.0.0.1] File does not exist: /Users/nacho/Sites/web-bowling/favicon.ico
+[Tue Oct 25 15:39:10 2011] [error] [client 127.0.0.1] File does not exist: /Users/nacho/Sites/web-bowling/favicon.ico
+[Tue Oct 25 15:39:51 2011] [error] [client 127.0.0.1] File does not exist: /Users/nacho/Sites/web-bowling/favicon.ico
+[Tue Oct 25 15:44:59 2011] [error] [client 127.0.0.1] File does not exist: /Users/nacho/Sites/web-bowling/favicon.ico
+[Tue Oct 25 15:59:22 2011] [error] [client 127.0.0.1] File does not exist: /Users/nacho/Sites/web-bowling/favicon.ico
+[Tue Oct 25 16:06:35 2011] [error] [client 127.0.0.1] File does not exist: /Users/nacho/Sites/web-bowling/favicon.ico
+[Tue Oct 25 16:08:41 2011] [error] [client 127.0.0.1] File does not exist: /Users/nacho/Sites/web-bowling/favicon.ico
+[Tue Oct 25 16:09:38 2011] [error] [client 127.0.0.1] File does not exist: /Users/nacho/Sites/web-bowling/favicon.ico
+[Tue Oct 25 16:10:29 2011] [error] [client 127.0.0.1] File does not exist: /Users/nacho/Sites/web-bowling/favicon.ico
+[Tue Oct 25 16:10:46 2011] [error] [client 127.0.0.1] File does not exist: /Users/nacho/Sites/web-bowling/favicon.ico
+[Tue Oct 25 16:12:04 2011] [error] [client 127.0.0.1] File does not exist: /Users/nacho/Sites/web-bowling/favicon.ico
+[Tue Oct 25 16:17:11 2011] [error] [client 127.0.0.1] File does not exist: /Users/nacho/Sites/web-bowling/favicon.ico
+[Wed Oct 26 08:29:44 2011] [error] [client 127.0.0.1] File does not exist: /Users/nacho/Sites/web-bowling/favicon.ico
+[Wed Oct 26 08:43:16 2011] [error] [client 127.0.0.1] File does not exist: /Users/nacho/Sites/web-bowling/favicon.ico
+[Wed Oct 26 08:43:36 2011] [error] [client 127.0.0.1] File does not exist: /Users/nacho/Sites/web-bowling/favicon.ico
+[Wed Oct 26 08:44:58 2011] [error] [client 127.0.0.1] File does not exist: /Users/nacho/Sites/web-bowling/favicon.ico
+[Wed Oct 26 08:46:01 2011] [error] [client 10.109.116.237] File does not exist: /Users/nacho/Sites/web-bowling/js/web-bowling.js, referer: http://10.109.37.189/
+[Wed Oct 26 08:48:15 2011] [error] [client 127.0.0.1] File does not exist: /Users/nacho/Sites/web-bowling/favicon.ico
+[Wed Oct 26 08:48:23 2011] [error] [client 127.0.0.1] File does not exist: /Users/nacho/Sites/web-bowling/favicon.ico
+[Wed Oct 26 09:00:05 2011] [error] [client 127.0.0.1] File does not exist: /Users/nacho/Sites/web-bowling/favicon.ico
+[Wed Oct 26 09:00:24 2011] [error] [client 127.0.0.1] File does not exist: /Users/nacho/Sites/web-bowling/favicon.ico
+[Wed Oct 26 09:04:22 2011] [error] [client 127.0.0.1] File does not exist: /Users/nacho/Sites/web-bowling/favicon.ico
+[Wed Oct 26 09:04:41 2011] [error] [client 127.0.0.1] File does not exist: /Users/nacho/Sites/web-bowling/favicon.ico
+[Wed Oct 26 09:05:17 2011] [error] [client 127.0.0.1] File does not exist: /Users/nacho/Sites/web-bowling/favicon.ico
+[Wed Oct 26 09:10:53 2011] [error] [client 127.0.0.1] File does not exist: /Users/nacho/Sites/web-bowling/favicon.ico
+[Wed Oct 26 09:10:56 2011] [error] [client 127.0.0.1] File does not exist: /Users/nacho/Sites/web-bowling/favicon.ico
+[Wed Oct 26 09:10:58 2011] [error] [client 127.0.0.1] File does not exist: /Users/nacho/Sites/web-bowling/favicon.ico
+[Wed Oct 26 09:11:00 2011] [error] [client 127.0.0.1] File does not exist: /Users/nacho/Sites/web-bowling/favicon.ico
+[Wed Oct 26 09:18:20 2011] [error] [client 127.0.0.1] File does not exist: /Users/nacho/Sites/web-bowling/favicon.ico
+[Wed Oct 26 09:31:39 2011] [error] [client 127.0.0.1] File does not exist: /Users/nacho/Sites/web-bowling/favicon.ico
+[Wed Oct 26 09:31:44 2011] [error] [client 127.0.0.1] File does not exist: /Users/nacho/Sites/web-bowling/favicon.ico
+[Wed Oct 26 09:32:22 2011] [error] [client 127.0.0.1] File does not exist: /Users/nacho/Sites/web-bowling/favicon.ico
+[Wed Oct 26 09:33:36 2011] [error] [client 127.0.0.1] File does not exist: /Users/nacho/Sites/web-bowling/favicon.ico
+[Wed Oct 26 09:35:49 2011] [error] [client 127.0.0.1] File does not exist: /Users/nacho/Sites/web-bowling/favicon.ico
+[Wed Oct 26 09:36:41 2011] [error] [client 127.0.0.1] File does not exist: /Users/nacho/Sites/web-bowling/favicon.ico
+[Wed Oct 26 09:37:17 2011] [error] [client 127.0.0.1] File does not exist: /Users/nacho/Sites/web-bowling/favicon.ico
+[Wed Oct 26 09:37:40 2011] [error] [client 127.0.0.1] File does not exist: /Users/nacho/Sites/web-bowling/favicon.ico
+[Wed Oct 26 09:37:53 2011] [error] [client 127.0.0.1] File does not exist: /Users/nacho/Sites/web-bowling/favicon.ico
+[Wed Oct 26 09:38:04 2011] [error] [client 127.0.0.1] File does not exist: /Users/nacho/Sites/web-bowling/favicon.ico
+[Wed Oct 26 09:56:02 2011] [error] [client 127.0.0.1] File does not exist: /Users/nacho/Sites/web-bowling/favicon.ico
+[Wed Oct 26 09:56:18 2011] [error] [client 127.0.0.1] File does not exist: /Users/nacho/Sites/web-bowling/favicon.ico
+[Wed Oct 26 09:56:22 2011] [error] [client 127.0.0.1] File does not exist: /Users/nacho/Sites/web-bowling/favicon.ico
+[Wed Oct 26 09:56:27 2011] [error] [client 127.0.0.1] File does not exist: /Users/nacho/Sites/web-bowling/favicon.ico
+[Wed Oct 26 09:56:36 2011] [error] [client 127.0.0.1] File does not exist: /Users/nacho/Sites/web-bowling/favicon.ico
+[Wed Oct 26 09:57:02 2011] [error] [client 127.0.0.1] File does not exist: /Users/nacho/Sites/web-bowling/favicon.ico
+[Wed Oct 26 09:57:09 2011] [error] [client 127.0.0.1] File does not exist: /Users/nacho/Sites/web-bowling/favicon.ico
+[Wed Oct 26 10:25:28 2011] [error] [client 10.109.117.151] File does not exist: /Users/nacho/Sites/web-bowling/js/web-bowling.js, referer: http://10.109.37.189/
+[Wed Oct 26 14:15:52 2011] [error] [client 10.109.117.127] File does not exist: /Users/nacho/Sites/web-bowling/js/web-bowling.js, referer: http://10.109.37.189/
+[Wed Oct 26 14:17:23 2011] [error] [client 10.109.116.237] File does not exist: /Users/nacho/Sites/web-bowling/js/web-bowling.js, referer: http://10.109.37.189/
+[Wed Oct 26 14:36:23 2011] [error] [client 127.0.0.1] File does not exist: /Users/nacho/Sites/web-bowling/favicon.ico
+[Wed Oct 26 14:36:31 2011] [error] [client 127.0.0.1] File does not exist: /Users/nacho/Sites/web-bowling/favicon.ico
+[Wed Oct 26 14:37:07 2011] [error] [client 127.0.0.1] File does not exist: /Users/nacho/Sites/web-bowling/favicon.ico
+[Wed Oct 26 14:38:56 2011] [error] [client 127.0.0.1] File does not exist: /Users/nacho/Sites/web-bowling/favicon.ico
+[Wed Oct 26 14:38:58 2011] [error] [client 127.0.0.1] File does not exist: /Users/nacho/Sites/web-bowling/favicon.ico
+[Wed Oct 26 14:39:29 2011] [error] [client 127.0.0.1] File does not exist: /Users/nacho/Sites/web-bowling/favicon.ico
+[Wed Oct 26 15:19:02 2011] [error] [client 127.0.0.1] File does not exist: /Users/nacho/Sites/web-bowling/favicon.ico
+[Wed Oct 26 15:26:37 2011] [error] [client 127.0.0.1] File does not exist: /Users/nacho/Sites/web-bowling/favicon.ico
+[Wed Oct 26 15:27:08 2011] [error] [client 127.0.0.1] File does not exist: /Users/nacho/Sites/web-bowling/favicon.ico
+[Wed Oct 26 15:27:37 2011] [error] [client 127.0.0.1] File does not exist: /Users/nacho/Sites/web-bowling/favicon.ico
+[Wed Oct 26 15:44:20 2011] [error] [client 127.0.0.1] File does not exist: /Users/nacho/Sites/web-bowling/favicon.ico
+[Wed Oct 26 15:44:37 2011] [error] [client 10.109.116.237] File does not exist: /Users/nacho/Sites/web-bowling/js/web-bowling.js, referer: http://10.109.37.189/
+[Wed Oct 26 15:52:59 2011] [error] [client 127.0.0.1] File does not exist: /Users/nacho/Sites/web-bowling/favicon.ico
+[Wed Oct 26 15:54:47 2011] [error] [client 127.0.0.1] File does not exist: /Users/nacho/Sites/web-bowling/favicon.ico
+[Wed Oct 26 15:55:48 2011] [error] [client 127.0.0.1] File does not exist: /Users/nacho/Sites/web-bowling/favicon.ico
+[Wed Oct 26 15:57:42 2011] [error] [client 127.0.0.1] File does not exist: /Users/nacho/Sites/web-bowling/favicon.ico
+[Wed Oct 26 15:58:36 2011] [error] [client 127.0.0.1] File does not exist: /Users/nacho/Sites/web-bowling/favicon.ico
+[Wed Oct 26 15:59:07 2011] [error] [client 127.0.0.1] File does not exist: /Users/nacho/Sites/web-bowling/favicon.ico
+[Wed Oct 26 15:59:34 2011] [error] [client 127.0.0.1] File does not exist: /Users/nacho/Sites/web-bowling/favicon.ico
+[Wed Oct 26 16:00:06 2011] [error] [client 127.0.0.1] File does not exist: /Users/nacho/Sites/web-bowling/favicon.ico
+[Wed Oct 26 16:50:48 2011] [error] [client 127.0.0.1] File does not exist: /Users/nacho/Sites/web-bowling/favicon.ico
+[Wed Oct 26 16:53:21 2011] [error] [client 127.0.0.1] File does not exist: /Users/nacho/Sites/web-bowling/favicon.ico
+[Wed Oct 26 16:53:53 2011] [error] [client 127.0.0.1] File does not exist: /Users/nacho/Sites/web-bowling/favicon.ico
+[Wed Oct 26 16:54:58 2011] [error] [client 127.0.0.1] File does not exist: /Users/nacho/Sites/web-bowling/favicon.ico
+[Thu Oct 27 08:25:13 2011] [error] [client 127.0.0.1] File does not exist: /Users/nacho/Sites/web-bowling/js/web-bowling.js, referer: http://localhost/
+[Thu Oct 27 08:25:13 2011] [error] [client 127.0.0.1] File does not exist: /Users/nacho/Sites/web-bowling/favicon.ico
+[Thu Oct 27 08:25:23 2011] [error] [client 127.0.0.1] File does not exist: /Users/nacho/Sites/web-bowling/favicon.ico
+[Thu Oct 27 08:26:07 2011] [error] [client 10.109.116.237] File does not exist: /Users/nacho/Sites/web-bowling/js/web-bowling.js, referer: http://10.109.37.189/
+[Thu Oct 27 08:27:39 2011] [error] [client 127.0.0.1] File does not exist: /Users/nacho/Sites/web-bowling/favicon.ico
+[Thu Oct 27 08:29:06 2011] [error] [client 127.0.0.1] File does not exist: /Users/nacho/Sites/web-bowling/favicon.ico
+[Thu Oct 27 08:29:45 2011] [error] [client 127.0.0.1] File does not exist: /Users/nacho/Sites/web-bowling/favicon.ico
+[Thu Oct 27 08:29:49 2011] [error] [client 127.0.0.1] File does not exist: /Users/nacho/Sites/web-bowling/favicon.ico
+[Thu Oct 27 08:30:38 2011] [error] [client 127.0.0.1] File does not exist: /Users/nacho/Sites/web-bowling/favicon.ico
+[Thu Oct 27 08:51:41 2011] [error] [client 127.0.0.1] File does not exist: /Users/nacho/Sites/web-bowling/favicon.ico
+[Thu Oct 27 08:52:01 2011] [error] [client 127.0.0.1] File does not exist: /Users/nacho/Sites/web-bowling/favicon.ico
+[Thu Oct 27 08:52:04 2011] [error] [client 127.0.0.1] File does not exist: /Users/nacho/Sites/web-bowling/favicon.ico
+[Thu Oct 27 08:52:05 2011] [error] [client 127.0.0.1] File does not exist: /Users/nacho/Sites/web-bowling/favicon.ico
+[Thu Oct 27 08:57:27 2011] [error] [client 127.0.0.1] File does not exist: /Users/nacho/Sites/web-bowling/favicon.ico
+[Thu Oct 27 08:57:28 2011] [error] [client 127.0.0.1] File does not exist: /Users/nacho/Sites/web-bowling/favicon.ico
+[Thu Oct 27 08:57:29 2011] [error] [client 127.0.0.1] File does not exist: /Users/nacho/Sites/web-bowling/favicon.ico
+[Thu Oct 27 08:58:32 2011] [error] [client 127.0.0.1] File does not exist: /Users/nacho/Sites/web-bowling/favicon.ico
+[Thu Oct 27 08:58:33 2011] [error] [client 127.0.0.1] File does not exist: /Users/nacho/Sites/web-bowling/favicon.ico
+[Thu Oct 27 08:58:33 2011] [error] [client 127.0.0.1] File does not exist: /Users/nacho/Sites/web-bowling/favicon.ico
+[Thu Oct 27 09:15:13 2011] [error] [client 127.0.0.1] File does not exist: /Users/nacho/Sites/web-bowling/favicon.ico
+[Thu Oct 27 09:19:18 2011] [error] [client 10.109.116.237] File does not exist: /Users/nacho/Sites/gyromarqee
+[Thu Oct 27 09:19:56 2011] [error] [client 10.109.116.237] File does not exist: /Users/nacho/Sites/gyro
+[Thu Oct 27 11:06:12 2011] [error] [client 127.0.0.1] File does not exist: /Users/nacho/Sites/web-bowling/favicon.ico
+[Thu Oct 27 11:12:15 2011] [error] [client 127.0.0.1] File does not exist: /Users/nacho/Sites/web-bowling/favicon.ico
+[Thu Oct 27 11:15:22 2011] [error] [client 127.0.0.1] File does not exist: /Users/nacho/Sites/web-bowling/favicon.ico
+[Thu Oct 27 11:19:35 2011] [error] [client 127.0.0.1] File does not exist: /Users/nacho/Sites/web-bowling/favicon.ico
+[Thu Oct 27 11:29:04 2011] [error] [client 127.0.0.1] File does not exist: /Users/nacho/Sites/web-bowling/favicon.ico
+[Fri Oct 28 13:47:24 2011] [error] [client 127.0.0.1] File does not exist: /Users/nacho/Sites/web-bowling/favicon.ico
+[Fri Oct 28 13:55:40 2011] [error] [client 127.0.0.1] File does not exist: /Users/nacho/Sites/web-bowling/favicon.ico
+[Fri Oct 28 13:57:16 2011] [error] [client 127.0.0.1] File does not exist: /Users/nacho/Sites/web-bowling/favicon.ico
+[Fri Oct 28 13:59:13 2011] [error] [client 127.0.0.1] File does not exist: /Users/nacho/Sites/web-bowling/favicon.ico
+[Fri Oct 28 14:00:04 2011] [error] [client 127.0.0.1] File does not exist: /Users/nacho/Sites/web-bowling/favicon.ico
+[Fri Oct 28 14:01:54 2011] [error] [client 127.0.0.1] File does not exist: /Users/nacho/Sites/web-bowling/favicon.ico
+[Fri Oct 28 14:21:23 2011] [error] [client 127.0.0.1] File does not exist: /Users/nacho/Sites/web-bowling/favicon.ico
+[Fri Oct 28 14:24:52 2011] [error] [client 127.0.0.1] File does not exist: /Users/nacho/Sites/web-bowling/favicon.ico
+[Fri Oct 28 14:36:47 2011] [error] [client 127.0.0.1] File does not exist: /Users/nacho/Sites/web-bowling/favicon.ico
+[Tue Nov 01 15:36:59 2011] [error] [client 127.0.0.1] File does not exist: /Users/nacho/Sites/web-bowling/favicon.ico
+[Tue Nov 01 15:37:27 2011] [error] [client 127.0.0.1] File does not exist: /Users/nacho/Sites/web-bowling/favicon.ico
+[Tue Nov 01 15:37:50 2011] [error] [client 127.0.0.1] File does not exist: /Users/nacho/Sites/web-bowling/favicon.ico
+[Tue Nov 01 15:48:07 2011] [error] [client 127.0.0.1] File does not exist: /Users/nacho/Sites/web-bowling/favicon.ico
+[Tue Nov 01 15:50:32 2011] [error] [client 127.0.0.1] File does not exist: /Users/nacho/Sites/web-bowling/favicon.ico
+[Tue Nov 01 15:51:11 2011] [error] [client 127.0.0.1] File does not exist: /Users/nacho/Sites/web-bowling/favicon.ico
+[Tue Nov 01 15:53:41 2011] [error] [client 127.0.0.1] File does not exist: /Users/nacho/Sites/web-bowling/favicon.ico
+[Tue Nov 01 16:03:49 2011] [error] [client 127.0.0.1] File does not exist: /Users/nacho/Sites/web-bowling/favicon.ico
+[Tue Nov 01 16:05:58 2011] [error] [client 127.0.0.1] File does not exist: /Users/nacho/Sites/web-bowling/favicon.ico
+[Tue Nov 01 16:06:24 2011] [error] [client 127.0.0.1] File does not exist: /Users/nacho/Sites/web-bowling/favicon.ico
+[Tue Nov 01 16:07:05 2011] [error] [client 127.0.0.1] File does not exist: /Users/nacho/Sites/web-bowling/favicon.ico
+[Tue Nov 01 16:07:56 2011] [error] [client 127.0.0.1] File does not exist: /Users/nacho/Sites/web-bowling/favicon.ico
+[Tue Nov 01 16:08:17 2011] [error] [client 127.0.0.1] File does not exist: /Users/nacho/Sites/web-bowling/favicon.ico
+[Tue Nov 01 16:09:02 2011] [error] [client 127.0.0.1] File does not exist: /Users/nacho/Sites/web-bowling/favicon.ico
+[Tue Nov 01 16:17:42 2011] [error] [client 127.0.0.1] File does not exist: /Users/nacho/Sites/web-bowling/favicon.ico
+[Tue Nov 01 16:17:58 2011] [error] [client 127.0.0.1] File does not exist: /Users/nacho/Sites/web-bowling/favicon.ico
+[Tue Nov 01 16:18:43 2011] [error] [client 127.0.0.1] File does not exist: /Users/nacho/Sites/web-bowling/favicon.ico
+[Tue Nov 01 16:19:11 2011] [error] [client 127.0.0.1] File does not exist: /Users/nacho/Sites/web-bowling/favicon.ico
+[Tue Nov 01 16:19:34 2011] [error] [client 127.0.0.1] File does not exist: /Users/nacho/Sites/web-bowling/favicon.ico
+[Tue Nov 01 16:19:57 2011] [error] [client 127.0.0.1] File does not exist: /Users/nacho/Sites/web-bowling/favicon.ico
+[Tue Nov 01 16:20:07 2011] [error] [client 127.0.0.1] File does not exist: /Users/nacho/Sites/web-bowling/favicon.ico
+[Tue Nov 01 16:21:44 2011] [error] [client 127.0.0.1] File does not exist: /Users/nacho/Sites/web-bowling/favicon.ico
+[Tue Nov 01 16:22:07 2011] [error] [client 127.0.0.1] File does not exist: /Users/nacho/Sites/web-bowling/favicon.ico
+[Tue Nov 01 16:22:19 2011] [error] [client 127.0.0.1] File does not exist: /Users/nacho/Sites/web-bowling/favicon.ico
+[Tue Nov 01 16:22:49 2011] [error] [client 127.0.0.1] File does not exist: /Users/nacho/Sites/web-bowling/favicon.ico
+[Tue Nov 01 16:23:01 2011] [error] [client 127.0.0.1] File does not exist: /Users/nacho/Sites/web-bowling/favicon.ico
+[Tue Nov 01 16:23:14 2011] [error] [client 127.0.0.1] File does not exist: /Users/nacho/Sites/web-bowling/favicon.ico
+[Tue Nov 01 16:24:04 2011] [error] [client 127.0.0.1] File does not exist: /Users/nacho/Sites/web-bowling/favicon.ico
+[Tue Nov 01 16:24:27 2011] [error] [client 127.0.0.1] File does not exist: /Users/nacho/Sites/web-bowling/favicon.ico
+[Tue Nov 01 16:24:47 2011] [error] [client 127.0.0.1] File does not exist: /Users/nacho/Sites/web-bowling/favicon.ico
+[Tue Nov 01 16:25:02 2011] [error] [client 127.0.0.1] File does not exist: /Users/nacho/Sites/web-bowling/favicon.ico
+[Tue Nov 01 16:25:34 2011] [error] [client 127.0.0.1] File does not exist: /Users/nacho/Sites/web-bowling/favicon.ico
+[Tue Nov 01 16:26:08 2011] [error] [client 127.0.0.1] File does not exist: /Users/nacho/Sites/web-bowling/favicon.ico
+[Tue Nov 01 16:26:48 2011] [error] [client 127.0.0.1] File does not exist: /Users/nacho/Sites/web-bowling/favicon.ico
+[Tue Nov 01 16:27:21 2011] [error] [client 127.0.0.1] File does not exist: /Users/nacho/Sites/web-bowling/favicon.ico
+[Tue Nov 01 16:27:40 2011] [error] [client 127.0.0.1] File does not exist: /Users/nacho/Sites/web-bowling/favicon.ico
+[Tue Nov 01 16:28:08 2011] [error] [client 127.0.0.1] File does not exist: /Users/nacho/Sites/web-bowling/favicon.ico
+[Tue Nov 01 16:28:23 2011] [error] [client 127.0.0.1] File does not exist: /Users/nacho/Sites/web-bowling/favicon.ico
+[Tue Nov 01 16:29:51 2011] [error] [client 127.0.0.1] File does not exist: /Users/nacho/Sites/web-bowling/favicon.ico
+[Tue Nov 01 16:30:47 2011] [error] [client 127.0.0.1] File does not exist: /Users/nacho/Sites/web-bowling/favicon.ico
+[Tue Nov 01 16:31:02 2011] [error] [client 127.0.0.1] File does not exist: /Users/nacho/Sites/web-bowling/favicon.ico
+[Tue Nov 01 16:35:47 2011] [error] [client 127.0.0.1] File does not exist: /Users/nacho/Sites/web-bowling/favicon.ico
+[Tue Nov 01 16:36:11 2011] [error] [client 127.0.0.1] File does not exist: /Users/nacho/Sites/web-bowling/favicon.ico
+[Tue Nov 01 16:36:46 2011] [error] [client 127.0.0.1] File does not exist: /Users/nacho/Sites/web-bowling/favicon.ico
+[Tue Nov 01 16:37:35 2011] [error] [client 127.0.0.1] File does not exist: /Users/nacho/Sites/web-bowling/favicon.ico
+[Tue Nov 01 16:38:15 2011] [error] [client 127.0.0.1] File does not exist: /Users/nacho/Sites/web-bowling/favicon.ico
+[Tue Nov 01 16:38:57 2011] [error] [client 127.0.0.1] File does not exist: /Users/nacho/Sites/web-bowling/favicon.ico
+[Tue Nov 01 16:39:17 2011] [error] [client 127.0.0.1] File does not exist: /Users/nacho/Sites/web-bowling/favicon.ico
+[Tue Nov 01 16:39:32 2011] [error] [client 127.0.0.1] File does not exist: /Users/nacho/Sites/web-bowling/favicon.ico
+[Tue Nov 01 16:39:56 2011] [error] [client 127.0.0.1] File does not exist: /Users/nacho/Sites/web-bowling/favicon.ico
+[Tue Nov 01 16:40:40 2011] [error] [client 127.0.0.1] File does not exist: /Users/nacho/Sites/web-bowling/favicon.ico
+[Tue Nov 01 16:41:26 2011] [error] [client 127.0.0.1] File does not exist: /Users/nacho/Sites/web-bowling/favicon.ico
+[Tue Nov 01 16:41:51 2011] [error] [client 127.0.0.1] File does not exist: /Users/nacho/Sites/web-bowling/favicon.ico
+[Tue Nov 01 16:42:17 2011] [error] [client 127.0.0.1] File does not exist: /Users/nacho/Sites/web-bowling/favicon.ico
+[Tue Nov 01 16:42:32 2011] [error] [client 127.0.0.1] File does not exist: /Users/nacho/Sites/web-bowling/favicon.ico
+[Tue Nov 01 16:42:49 2011] [error] [client 127.0.0.1] File does not exist: /Users/nacho/Sites/web-bowling/favicon.ico
+[Tue Nov 01 16:42:59 2011] [error] [client 127.0.0.1] File does not exist: /Users/nacho/Sites/web-bowling/favicon.ico
+[Tue Nov 01 16:43:30 2011] [error] [client 127.0.0.1] File does not exist: /Users/nacho/Sites/web-bowling/favicon.ico
+[Tue Nov 01 16:43:33 2011] [error] [client 127.0.0.1] File does not exist: /Users/nacho/Sites/web-bowling/favicon.ico
+[Tue Nov 01 16:44:15 2011] [error] [client 127.0.0.1] File does not exist: /Users/nacho/Sites/web-bowling/favicon.ico
+[Tue Nov 01 16:44:48 2011] [error] [client 127.0.0.1] File does not exist: /Users/nacho/Sites/web-bowling/favicon.ico
+[Tue Nov 01 16:45:16 2011] [error] [client 127.0.0.1] File does not exist: /Users/nacho/Sites/web-bowling/favicon.ico
+[Tue Nov 01 16:45:35 2011] [error] [client 127.0.0.1] File does not exist: /Users/nacho/Sites/web-bowling/favicon.ico
+[Tue Nov 01 16:46:19 2011] [error] [client 127.0.0.1] File does not exist: /Users/nacho/Sites/web-bowling/favicon.ico
+[Tue Nov 01 16:46:35 2011] [error] [client 127.0.0.1] File does not exist: /Users/nacho/Sites/web-bowling/favicon.ico
+[Tue Nov 01 16:46:55 2011] [error] [client 127.0.0.1] File does not exist: /Users/nacho/Sites/web-bowling/favicon.ico
+[Tue Nov 01 16:49:25 2011] [error] [client 127.0.0.1] File does not exist: /Users/nacho/Sites/web-bowling/favicon.ico
+[Tue Nov 01 16:49:30 2011] [error] [client 127.0.0.1] File does not exist: /Users/nacho/Sites/web-bowling/favicon.ico
+[Tue Nov 01 16:50:22 2011] [error] [client 127.0.0.1] File does not exist: /Users/nacho/Sites/web-bowling/favicon.ico
+[Tue Nov 01 16:50:35 2011] [error] [client 127.0.0.1] File does not exist: /Users/nacho/Sites/web-bowling/favicon.ico
+[Tue Nov 01 16:50:38 2011] [error] [client 127.0.0.1] File does not exist: /Users/nacho/Sites/web-bowling/favicon.ico
+[Tue Nov 01 16:50:47 2011] [error] [client 127.0.0.1] File does not exist: /Users/nacho/Sites/web-bowling/favicon.ico
+[Tue Nov 01 16:51:26 2011] [error] [client 127.0.0.1] File does not exist: /Users/nacho/Sites/web-bowling/favicon.ico
+[Tue Nov 01 16:51:34 2011] [error] [client 127.0.0.1] File does not exist: /Users/nacho/Sites/web-bowling/favicon.ico
+[Tue Nov 01 16:51:50 2011] [error] [client 127.0.0.1] File does not exist: /Users/nacho/Sites/web-bowling/favicon.ico
+[Tue Nov 01 16:51:58 2011] [error] [client 127.0.0.1] File does not exist: /Users/nacho/Sites/web-bowling/favicon.ico
+[Tue Nov 01 16:52:14 2011] [error] [client 127.0.0.1] File does not exist: /Users/nacho/Sites/web-bowling/favicon.ico
+[Tue Nov 01 16:52:17 2011] [error] [client 127.0.0.1] File does not exist: /Users/nacho/Sites/web-bowling/favicon.ico
+[Wed Nov 02 08:49:01 2011] [error] [client 127.0.0.1] File does not exist: /Users/nacho/Sites/web-bowling/favicon.ico
+[Wed Nov 02 08:49:52 2011] [error] [client 127.0.0.1] File does not exist: /Users/nacho/Sites/web-bowling/favicon.ico
+[Wed Nov 02 08:52:41 2011] [error] [client 127.0.0.1] File does not exist: /Users/nacho/Sites/web-bowling/favicon.ico
+[Wed Nov 02 08:52:44 2011] [error] [client 127.0.0.1] File does not exist: /Users/nacho/Sites/web-bowling/favicon.ico
+[Wed Nov 02 08:52:46 2011] [error] [client 127.0.0.1] File does not exist: /Users/nacho/Sites/web-bowling/favicon.ico
+[Wed Nov 02 09:03:09 2011] [error] [client 127.0.0.1] File does not exist: /Users/nacho/Sites/web-bowling/favicon.ico
+[Wed Nov 02 09:03:40 2011] [error] [client 127.0.0.1] File does not exist: /Users/nacho/Sites/web-bowling/favicon.ico
+[Wed Nov 02 09:03:52 2011] [error] [client 127.0.0.1] File does not exist: /Users/nacho/Sites/web-bowling/favicon.ico
+[Wed Nov 02 09:04:25 2011] [error] [client 127.0.0.1] File does not exist: /Users/nacho/Sites/web-bowling/favicon.ico
+[Wed Nov 02 09:08:08 2011] [error] [client 127.0.0.1] File does not exist: /Users/nacho/Sites/web-bowling/favicon.ico
+[Wed Nov 02 09:08:48 2011] [error] [client 127.0.0.1] File does not exist: /Users/nacho/Sites/web-bowling/favicon.ico
+[Wed Nov 02 09:09:06 2011] [error] [client 127.0.0.1] File does not exist: /Users/nacho/Sites/web-bowling/favicon.ico
+[Wed Nov 02 09:25:20 2011] [error] [client 127.0.0.1] File does not exist: /Users/nacho/Sites/web-bowling/favicon.ico
+[Wed Nov 02 09:26:21 2011] [error] [client 127.0.0.1] File does not exist: /Users/nacho/Sites/web-bowling/favicon.ico
+[Wed Nov 02 09:54:04 2011] [error] [client 127.0.0.1] File does not exist: /Users/nacho/Sites/web-bowling/favicon.ico
+[Wed Nov 02 09:54:51 2011] [error] [client 127.0.0.1] File does not exist: /Users/nacho/Sites/web-bowling/favicon.ico
+[Wed Nov 02 09:55:14 2011] [error] [client 127.0.0.1] File does not exist: /Users/nacho/Sites/web-bowling/favicon.ico
+[Wed Nov 02 09:55:40 2011] [error] [client 127.0.0.1] File does not exist: /Users/nacho/Sites/web-bowling/favicon.ico
+[Wed Nov 02 10:02:18 2011] [error] [client 127.0.0.1] File does not exist: /Users/nacho/Sites/web-bowling/favicon.ico
+[Wed Nov 02 10:02:45 2011] [error] [client 127.0.0.1] File does not exist: /Users/nacho/Sites/web-bowling/favicon.ico
+[Wed Nov 02 10:03:34 2011] [error] [client 127.0.0.1] File does not exist: /Users/nacho/Sites/web-bowling/favicon.ico
+[Wed Nov 02 10:04:45 2011] [error] [client 127.0.0.1] File does not exist: /Users/nacho/Sites/web-bowling/favicon.ico
+[Wed Nov 02 10:05:18 2011] [error] [client 127.0.0.1] File does not exist: /Users/nacho/Sites/web-bowling/favicon.ico
+[Wed Nov 02 10:09:04 2011] [error] [client 127.0.0.1] File does not exist: /Users/nacho/Sites/web-bowling/favicon.ico
+[Wed Nov 02 10:09:42 2011] [error] [client 127.0.0.1] File does not exist: /Users/nacho/Sites/web-bowling/favicon.ico
+[Wed Nov 02 10:10:00 2011] [error] [client 127.0.0.1] File does not exist: /Users/nacho/Sites/web-bowling/favicon.ico
+[Wed Nov 02 10:10:07 2011] [error] [client 127.0.0.1] File does not exist: /Users/nacho/Sites/web-bowling/favicon.ico
+[Wed Nov 02 10:10:53 2011] [error] [client 127.0.0.1] File does not exist: /Users/nacho/Sites/web-bowling/favicon.ico
+[Wed Nov 02 10:11:44 2011] [error] [client 127.0.0.1] File does not exist: /Users/nacho/Sites/web-bowling/favicon.ico
+[Wed Nov 02 10:11:49 2011] [error] [client 127.0.0.1] File does not exist: /Users/nacho/Sites/web-bowling/favicon.ico
+[Wed Nov 02 10:12:14 2011] [error] [client 127.0.0.1] File does not exist: /Users/nacho/Sites/web-bowling/favicon.ico
+[Wed Nov 02 10:46:54 2011] [error] [client 127.0.0.1] File does not exist: /Users/nacho/Sites/web-bowling/favicon.ico
+[Wed Nov 02 10:49:37 2011] [error] [client 127.0.0.1] File does not exist: /Users/nacho/Sites/web-bowling/favicon.ico
+[Wed Nov 02 10:49:59 2011] [error] [client 127.0.0.1] File does not exist: /Users/nacho/Sites/web-bowling/favicon.ico
+[Wed Nov 02 10:51:31 2011] [error] [client 127.0.0.1] File does not exist: /Users/nacho/Sites/web-bowling/favicon.ico
+[Wed Nov 02 10:53:49 2011] [error] [client 127.0.0.1] File does not exist: /Users/nacho/Sites/web-bowling/favicon.ico
+[Wed Nov 02 10:56:24 2011] [error] [client 127.0.0.1] File does not exist: /Users/nacho/Sites/web-bowling/favicon.ico
+[Wed Nov 02 10:58:01 2011] [error] [client 127.0.0.1] File does not exist: /Users/nacho/Sites/web-bowling/favicon.ico
+[Wed Nov 02 10:59:45 2011] [error] [client 127.0.0.1] File does not exist: /Users/nacho/Sites/web-bowling/favicon.ico
+[Wed Nov 02 11:00:29 2011] [error] [client 127.0.0.1] File does not exist: /Users/nacho/Sites/web-bowling/favicon.ico
+[Wed Nov 02 11:01:12 2011] [error] [client 127.0.0.1] File does not exist: /Users/nacho/Sites/web-bowling/favicon.ico
+[Wed Nov 02 13:15:54 2011] [error] [client 127.0.0.1] File does not exist: /Users/nacho/Sites/web-bowling/favicon.ico
+[Wed Nov 02 13:16:18 2011] [error] [client 127.0.0.1] File does not exist: /Users/nacho/Sites/web-bowling/favicon.ico
+[Wed Nov 02 13:23:59 2011] [error] [client 127.0.0.1] File does not exist: /Users/nacho/Sites/web-bowling/favicon.ico
+[Wed Nov 02 13:28:16 2011] [error] [client 127.0.0.1] File does not exist: /Users/nacho/Sites/web-bowling/favicon.ico
+[Wed Nov 02 14:27:42 2011] [error] [client 127.0.0.1] File does not exist: /Users/nacho/Sites/web-bowling/favicon.ico
+[Wed Nov 02 14:28:29 2011] [error] [client 127.0.0.1] File does not exist: /Users/nacho/Sites/web-bowling/favicon.ico
+[Wed Nov 02 14:32:34 2011] [error] [client 127.0.0.1] File does not exist: /Users/nacho/Sites/web-bowling/favicon.ico
+[Wed Nov 02 14:36:38 2011] [error] [client 127.0.0.1] File does not exist: /Users/nacho/Sites/web-bowling/favicon.ico
+[Wed Nov 02 15:00:25 2011] [error] [client 127.0.0.1] File does not exist: /Users/nacho/Sites/web-bowling/favicon.ico
+[Wed Nov 02 15:01:12 2011] [error] [client 127.0.0.1] File does not exist: /Users/nacho/Sites/web-bowling/favicon.ico
+[Wed Nov 02 15:02:50 2011] [error] [client 127.0.0.1] File does not exist: /Users/nacho/Sites/web-bowling/favicon.ico
+[Wed Nov 02 15:05:08 2011] [error] [client 127.0.0.1] File does not exist: /Users/nacho/Sites/web-bowling/favicon.ico
+[Wed Nov 02 15:05:34 2011] [error] [client 127.0.0.1] File does not exist: /Users/nacho/Sites/web-bowling/favicon.ico
+[Wed Nov 02 15:07:10 2011] [error] [client 127.0.0.1] File does not exist: /Users/nacho/Sites/web-bowling/favicon.ico
+[Wed Nov 02 15:07:44 2011] [error] [client 127.0.0.1] File does not exist: /Users/nacho/Sites/web-bowling/favicon.ico
+[Wed Nov 02 15:08:25 2011] [error] [client 127.0.0.1] File does not exist: /Users/nacho/Sites/web-bowling/favicon.ico
+[Wed Nov 02 15:09:13 2011] [error] [client 127.0.0.1] File does not exist: /Users/nacho/Sites/web-bowling/favicon.ico
+[Wed Nov 02 15:09:21 2011] [error] [client 127.0.0.1] File does not exist: /Users/nacho/Sites/web-bowling/favicon.ico
+[Wed Nov 02 15:09:29 2011] [error] [client 127.0.0.1] File does not exist: /Users/nacho/Sites/web-bowling/favicon.ico
+[Wed Nov 02 15:09:41 2011] [error] [client 127.0.0.1] File does not exist: /Users/nacho/Sites/web-bowling/favicon.ico
+[Wed Nov 02 15:09:53 2011] [error] [client 127.0.0.1] File does not exist: /Users/nacho/Sites/web-bowling/favicon.ico
+[Wed Nov 02 15:19:19 2011] [error] [client 127.0.0.1] File does not exist: /Users/nacho/Sites/web-bowling/favicon.ico
+[Wed Nov 02 15:19:48 2011] [error] [client 127.0.0.1] File does not exist: /Users/nacho/Sites/web-bowling/favicon.ico
+[Wed Nov 02 15:20:33 2011] [error] [client 127.0.0.1] File does not exist: /Users/nacho/Sites/web-bowling/favicon.ico
+[Wed Nov 02 15:23:01 2011] [error] [client 127.0.0.1] File does not exist: /Users/nacho/Sites/web-bowling/favicon.ico
+[Wed Nov 02 15:23:15 2011] [error] [client 127.0.0.1] File does not exist: /Users/nacho/Sites/web-bowling/favicon.ico
+[Wed Nov 02 15:24:26 2011] [error] [client 127.0.0.1] File does not exist: /Users/nacho/Sites/web-bowling/favicon.ico
+[Wed Nov 02 15:25:18 2011] [error] [client 127.0.0.1] File does not exist: /Users/nacho/Sites/web-bowling/favicon.ico
+[Wed Nov 02 15:25:41 2011] [error] [client 127.0.0.1] File does not exist: /Users/nacho/Sites/web-bowling/favicon.ico
+[Wed Nov 02 15:25:48 2011] [error] [client 127.0.0.1] File does not exist: /Users/nacho/Sites/web-bowling/favicon.ico
+[Wed Nov 02 15:25:57 2011] [error] [client 127.0.0.1] File does not exist: /Users/nacho/Sites/web-bowling/favicon.ico
+[Wed Nov 02 15:26:12 2011] [error] [client 127.0.0.1] File does not exist: /Users/nacho/Sites/web-bowling/favicon.ico
+[Wed Nov 02 15:28:20 2011] [error] [client 127.0.0.1] File does not exist: /Users/nacho/Sites/web-bowling/favicon.ico
+[Wed Nov 02 15:29:20 2011] [error] [client 127.0.0.1] File does not exist: /Users/nacho/Sites/web-bowling/favicon.ico
+[Wed Nov 02 15:30:21 2011] [error] [client 127.0.0.1] File does not exist: /Users/nacho/Sites/web-bowling/favicon.ico
+[Wed Nov 02 15:32:28 2011] [error] [client 127.0.0.1] File does not exist: /Users/nacho/Sites/web-bowling/favicon.ico
+[Wed Nov 02 15:32:56 2011] [error] [client 127.0.0.1] File does not exist: /Users/nacho/Sites/web-bowling/favicon.ico
+[Wed Nov 02 15:33:15 2011] [error] [client 127.0.0.1] File does not exist: /Users/nacho/Sites/web-bowling/favicon.ico
+[Wed Nov 02 15:33:42 2011] [error] [client 127.0.0.1] File does not exist: /Users/nacho/Sites/web-bowling/favicon.ico
+[Wed Nov 02 15:33:58 2011] [error] [client 127.0.0.1] File does not exist: /Users/nacho/Sites/web-bowling/favicon.ico
+[Wed Nov 02 15:34:18 2011] [error] [client 127.0.0.1] File does not exist: /Users/nacho/Sites/web-bowling/favicon.ico
+[Wed Nov 02 15:35:00 2011] [error] [client 127.0.0.1] File does not exist: /Users/nacho/Sites/web-bowling/favicon.ico
+[Thu Nov 03 08:42:30 2011] [error] [client 127.0.0.1] File does not exist: /Users/nacho/Sites/opinion-scale/css, referer: http://localhost/~nacho/opinion-scale/voter.html
+[Thu Nov 03 08:42:30 2011] [error] [client 127.0.0.1] File does not exist: /Users/nacho/Sites/web-bowling/favicon.ico
+[Thu Nov 03 08:44:47 2011] [error] [client 127.0.0.1] File does not exist: /Users/nacho/Sites/opinion-scale/css, referer: http://localhost/~nacho/opinion-scale/voter.html
+[Thu Nov 03 08:44:48 2011] [error] [client 127.0.0.1] File does not exist: /Users/nacho/Sites/web-bowling/favicon.ico
+[Thu Nov 03 08:45:18 2011] [error] [client 127.0.0.1] File does not exist: /Users/nacho/Sites/opinion-scale/css, referer: http://localhost/~nacho/opinion-scale/voter.html
+[Thu Nov 03 08:45:18 2011] [error] [client 127.0.0.1] File does not exist: /Users/nacho/Sites/web-bowling/favicon.ico
+[Thu Nov 03 08:46:52 2011] [error] [client 127.0.0.1] File does not exist: /Users/nacho/Sites/opinion-scale/css, referer: http://localhost/~nacho/opinion-scale/voter.html
+[Thu Nov 03 08:46:52 2011] [error] [client 127.0.0.1] File does not exist: /Users/nacho/Sites/web-bowling/favicon.ico
+[Thu Nov 03 08:47:03 2011] [error] [client 127.0.0.1] File does not exist: /Users/nacho/Sites/opinion-scale/css, referer: http://localhost/~nacho/opinion-scale/voter.html
+[Thu Nov 03 08:47:03 2011] [error] [client 127.0.0.1] File does not exist: /Users/nacho/Sites/web-bowling/favicon.ico
+[Thu Nov 03 08:51:10 2011] [error] [client 127.0.0.1] File does not exist: /Users/nacho/Sites/opinion-scale/css, referer: http://localhost/~nacho/opinion-scale/voter.html
+[Thu Nov 03 08:51:11 2011] [error] [client 127.0.0.1] File does not exist: /Users/nacho/Sites/web-bowling/favicon.ico
+[Thu Nov 03 08:51:29 2011] [error] [client 127.0.0.1] File does not exist: /Users/nacho/Sites/opinion-scale/css, referer: http://localhost/~nacho/opinion-scale/voter.html
+[Thu Nov 03 08:51:29 2011] [error] [client 127.0.0.1] File does not exist: /Users/nacho/Sites/web-bowling/favicon.ico
+[Thu Nov 03 08:52:21 2011] [error] [client 127.0.0.1] File does not exist: /Users/nacho/Sites/opinion-scale/css, referer: http://localhost/~nacho/opinion-scale/voter.html
+[Thu Nov 03 08:52:21 2011] [error] [client 127.0.0.1] File does not exist: /Users/nacho/Sites/web-bowling/favicon.ico
+[Thu Nov 03 08:52:28 2011] [error] [client 127.0.0.1] File does not exist: /Users/nacho/Sites/opinion-scale/css, referer: http://localhost/~nacho/opinion-scale/voter.html
+[Thu Nov 03 08:52:28 2011] [error] [client 127.0.0.1] File does not exist: /Users/nacho/Sites/web-bowling/favicon.ico
+[Thu Nov 03 08:52:35 2011] [error] [client 127.0.0.1] File does not exist: /Users/nacho/Sites/opinion-scale/css, referer: http://localhost/~nacho/opinion-scale/voter.html
+[Thu Nov 03 08:52:35 2011] [error] [client 127.0.0.1] File does not exist: /Users/nacho/Sites/web-bowling/favicon.ico
+[Thu Nov 03 08:52:41 2011] [error] [client 127.0.0.1] File does not exist: /Users/nacho/Sites/opinion-scale/css, referer: http://localhost/~nacho/opinion-scale/voter.html
+[Thu Nov 03 08:52:41 2011] [error] [client 127.0.0.1] File does not exist: /Users/nacho/Sites/web-bowling/favicon.ico
+[Thu Nov 03 08:52:46 2011] [error] [client 127.0.0.1] File does not exist: /Users/nacho/Sites/opinion-scale/css, referer: http://localhost/~nacho/opinion-scale/voter.html
+[Thu Nov 03 08:52:46 2011] [error] [client 127.0.0.1] File does not exist: /Users/nacho/Sites/web-bowling/favicon.ico
+[Thu Nov 03 08:53:06 2011] [error] [client 127.0.0.1] File does not exist: /Users/nacho/Sites/opinion-scale/css, referer: http://localhost/~nacho/opinion-scale/voter.html
+[Thu Nov 03 08:53:06 2011] [error] [client 127.0.0.1] File does not exist: /Users/nacho/Sites/web-bowling/favicon.ico
+[Thu Nov 03 08:53:31 2011] [error] [client 127.0.0.1] File does not exist: /Users/nacho/Sites/opinion-scale/css, referer: http://localhost/~nacho/opinion-scale/voter.html
+[Thu Nov 03 08:53:32 2011] [error] [client 127.0.0.1] File does not exist: /Users/nacho/Sites/web-bowling/favicon.ico
+[Thu Nov 03 08:53:39 2011] [error] [client 127.0.0.1] File does not exist: /Users/nacho/Sites/opinion-scale/css, referer: http://localhost/~nacho/opinion-scale/voter.html
+[Thu Nov 03 08:53:39 2011] [error] [client 127.0.0.1] File does not exist: /Users/nacho/Sites/web-bowling/favicon.ico
+[Thu Nov 03 08:54:35 2011] [error] [client 127.0.0.1] File does not exist: /Users/nacho/Sites/opinion-scale/css, referer: http://localhost/~nacho/opinion-scale/voter.html
+[Thu Nov 03 08:54:36 2011] [error] [client 127.0.0.1] File does not exist: /Users/nacho/Sites/web-bowling/favicon.ico
+[Thu Nov 03 09:39:16 2011] [error] [client 127.0.0.1] File does not exist: /Users/nacho/Sites/opinion-scale/css, referer: http://localhost/~nacho/opinion-scale/voter.html
+[Thu Nov 03 09:39:18 2011] [error] [client 127.0.0.1] File does not exist: /Users/nacho/Sites/web-bowling/favicon.ico
+[Thu Nov 03 09:51:27 2011] [error] [client 127.0.0.1] File does not exist: /Users/nacho/Sites/opinion-scale/css, referer: http://localhost/~nacho/opinion-scale/voter.html
+[Thu Nov 03 09:51:29 2011] [error] [client 127.0.0.1] File does not exist: /Users/nacho/Sites/web-bowling/favicon.ico
+[Thu Nov 03 09:56:35 2011] [error] [client 127.0.0.1] File does not exist: /Users/nacho/Sites/opinion-scale/css, referer: http://localhost/~nacho/opinion-scale/voter.html
+[Thu Nov 03 09:56:37 2011] [error] [client 127.0.0.1] File does not exist: /Users/nacho/Sites/web-bowling/favicon.ico
+[Thu Nov 03 09:57:09 2011] [error] [client 127.0.0.1] File does not exist: /Users/nacho/Sites/opinion-scale/css, referer: http://localhost/~nacho/opinion-scale/voter.html
+[Thu Nov 03 09:57:10 2011] [error] [client 127.0.0.1] File does not exist: /Users/nacho/Sites/web-bowling/favicon.ico
+[Thu Nov 03 09:59:22 2011] [error] [client 127.0.0.1] File does not exist: /Users/nacho/Sites/opinion-scale/css, referer: http://localhost/~nacho/opinion-scale/voter.html
+[Thu Nov 03 09:59:24 2011] [error] [client 127.0.0.1] File does not exist: /Users/nacho/Sites/web-bowling/favicon.ico
+[Thu Nov 03 09:59:48 2011] [error] [client 127.0.0.1] File does not exist: /Users/nacho/Sites/opinion-scale/css, referer: http://localhost/~nacho/opinion-scale/voter.html
+[Thu Nov 03 09:59:50 2011] [error] [client 127.0.0.1] File does not exist: /Users/nacho/Sites/web-bowling/favicon.ico
+[Thu Nov 03 10:00:25 2011] [error] [client 127.0.0.1] File does not exist: /Users/nacho/Sites/opinion-scale/css, referer: http://localhost/~nacho/opinion-scale/voter.html
+[Thu Nov 03 10:00:26 2011] [error] [client 127.0.0.1] File does not exist: /Users/nacho/Sites/web-bowling/favicon.ico
+[Thu Nov 03 10:01:12 2011] [error] [client 127.0.0.1] File does not exist: /Users/nacho/Sites/opinion-scale/css, referer: http://localhost/~nacho/opinion-scale/voter.html
+[Thu Nov 03 10:01:14 2011] [error] [client 127.0.0.1] File does not exist: /Users/nacho/Sites/web-bowling/favicon.ico
+[Thu Nov 03 10:01:31 2011] [error] [client 127.0.0.1] File does not exist: /Users/nacho/Sites/opinion-scale/css, referer: http://localhost/~nacho/opinion-scale/voter.html
+[Thu Nov 03 10:01:31 2011] [error] [client 127.0.0.1] File does not exist: /Users/nacho/Sites/web-bowling/favicon.ico
+[Thu Nov 03 10:02:08 2011] [error] [client 127.0.0.1] File does not exist: /Users/nacho/Sites/opinion-scale/css, referer: http://localhost/~nacho/opinion-scale/voter.html
+[Thu Nov 03 10:02:10 2011] [error] [client 127.0.0.1] File does not exist: /Users/nacho/Sites/web-bowling/favicon.ico
+[Thu Nov 03 10:02:51 2011] [error] [client 127.0.0.1] File does not exist: /Users/nacho/Sites/opinion-scale/css, referer: http://localhost/~nacho/opinion-scale/voter.html
+[Thu Nov 03 10:02:53 2011] [error] [client 127.0.0.1] File does not exist: /Users/nacho/Sites/web-bowling/favicon.ico
+[Thu Nov 03 10:04:43 2011] [error] [client 127.0.0.1] File does not exist: /Users/nacho/Sites/opinion-scale/css, referer: http://localhost/~nacho/opinion-scale/voter.html
+[Thu Nov 03 10:04:45 2011] [error] [client 127.0.0.1] File does not exist: /Users/nacho/Sites/web-bowling/favicon.ico
+[Thu Nov 03 10:06:01 2011] [error] [client 127.0.0.1] File does not exist: /Users/nacho/Sites/opinion-scale/css, referer: http://localhost/~nacho/opinion-scale/voter.html
+[Thu Nov 03 10:06:02 2011] [error] [client 127.0.0.1] File does not exist: /Users/nacho/Sites/web-bowling/favicon.ico
+[Thu Nov 03 10:06:53 2011] [error] [client 127.0.0.1] File does not exist: /Users/nacho/Sites/opinion-scale/css, referer: http://localhost/~nacho/opinion-scale/voter.html
+[Thu Nov 03 10:06:54 2011] [error] [client 127.0.0.1] File does not exist: /Users/nacho/Sites/web-bowling/favicon.ico
+[Thu Nov 03 10:08:14 2011] [error] [client 127.0.0.1] File does not exist: /Users/nacho/Sites/opinion-scale/css, referer: http://localhost/~nacho/opinion-scale/voter.html
+[Thu Nov 03 10:08:15 2011] [error] [client 127.0.0.1] File does not exist: /Users/nacho/Sites/web-bowling/favicon.ico
+[Thu Nov 03 10:08:43 2011] [error] [client 127.0.0.1] File does not exist: /Users/nacho/Sites/opinion-scale/css, referer: http://localhost/~nacho/opinion-scale/voter.html
+[Thu Nov 03 10:08:46 2011] [error] [client 127.0.0.1] File does not exist: /Users/nacho/Sites/web-bowling/favicon.ico
+[Thu Nov 03 10:09:46 2011] [error] [client 127.0.0.1] File does not exist: /Users/nacho/Sites/opinion-scale/css, referer: http://localhost/~nacho/opinion-scale/voter.html
+[Thu Nov 03 10:09:48 2011] [error] [client 127.0.0.1] File does not exist: /Users/nacho/Sites/web-bowling/favicon.ico
+[Thu Nov 03 10:09:59 2011] [error] [client 127.0.0.1] File does not exist: /Users/nacho/Sites/opinion-scale/css, referer: http://localhost/~nacho/opinion-scale/voter.html
+[Thu Nov 03 10:10:00 2011] [error] [client 127.0.0.1] File does not exist: /Users/nacho/Sites/web-bowling/favicon.ico
+[Thu Nov 03 10:11:28 2011] [error] [client 127.0.0.1] File does not exist: /Users/nacho/Sites/opinion-scale/css, referer: http://localhost/~nacho/opinion-scale/voter.html
+[Thu Nov 03 10:11:31 2011] [error] [client 127.0.0.1] File does not exist: /Users/nacho/Sites/web-bowling/favicon.ico
+[Thu Nov 03 10:22:54 2011] [error] [client 127.0.0.1] File does not exist: /Users/nacho/Sites/opinion-scale/css, referer: http://localhost/~nacho/opinion-scale/voter.html
+[Thu Nov 03 10:22:57 2011] [error] [client 127.0.0.1] File does not exist: /Users/nacho/Sites/web-bowling/favicon.ico
+[Thu Nov 03 10:24:28 2011] [error] [client 127.0.0.1] File does not exist: /Users/nacho/Sites/opinion-scale/css, referer: http://localhost/~nacho/opinion-scale/voter.html
+[Thu Nov 03 10:24:31 2011] [error] [client 127.0.0.1] File does not exist: /Users/nacho/Sites/web-bowling/favicon.ico
+[Thu Nov 03 10:29:27 2011] [error] [client 127.0.0.1] File does not exist: /Users/nacho/Sites/opinion-scale/css, referer: http://localhost/~nacho/opinion-scale/voter.html
+[Thu Nov 03 10:29:30 2011] [error] [client 127.0.0.1] File does not exist: /Users/nacho/Sites/web-bowling/favicon.ico
+[Thu Nov 03 10:54:32 2011] [error] [client 127.0.0.1] File does not exist: /Users/nacho/Sites/opinion-scale/css, referer: http://localhost/~nacho/opinion-scale/voter.html
+[Thu Nov 03 10:54:35 2011] [error] [client 127.0.0.1] File does not exist: /Users/nacho/Sites/web-bowling/favicon.ico
+[Thu Nov 03 10:55:30 2011] [error] [client 127.0.0.1] File does not exist: /Users/nacho/Sites/opinion-scale/css, referer: http://localhost/~nacho/opinion-scale/voter.html
+[Thu Nov 03 10:55:32 2011] [error] [client 127.0.0.1] File does not exist: /Users/nacho/Sites/web-bowling/favicon.ico
+[Thu Nov 03 10:56:56 2011] [error] [client 127.0.0.1] File does not exist: /Users/nacho/Sites/opinion-scale/css, referer: http://localhost/~nacho/opinion-scale/voter.html
+[Thu Nov 03 10:56:58 2011] [error] [client 127.0.0.1] File does not exist: /Users/nacho/Sites/web-bowling/favicon.ico
+[Thu Nov 03 10:57:50 2011] [error] [client 127.0.0.1] File does not exist: /Users/nacho/Sites/opinion-scale/css, referer: http://localhost/~nacho/opinion-scale/voter.html
+[Thu Nov 03 10:57:52 2011] [error] [client 127.0.0.1] File does not exist: /Users/nacho/Sites/web-bowling/favicon.ico
+[Thu Nov 03 10:59:10 2011] [error] [client 127.0.0.1] File does not exist: /Users/nacho/Sites/opinion-scale/css, referer: http://localhost/~nacho/opinion-scale/voter.html
+[Thu Nov 03 10:59:12 2011] [error] [client 127.0.0.1] File does not exist: /Users/nacho/Sites/web-bowling/favicon.ico
+[Thu Nov 03 11:00:13 2011] [error] [client 127.0.0.1] File does not exist: /Users/nacho/Sites/opinion-scale/css, referer: http://localhost/~nacho/opinion-scale/voter.html
+[Thu Nov 03 11:00:15 2011] [error] [client 127.0.0.1] File does not exist: /Users/nacho/Sites/web-bowling/favicon.ico
+[Thu Nov 03 11:01:05 2011] [error] [client 127.0.0.1] File does not exist: /Users/nacho/Sites/opinion-scale/css, referer: http://localhost/~nacho/opinion-scale/voter.html
+[Thu Nov 03 11:01:07 2011] [error] [client 127.0.0.1] File does not exist: /Users/nacho/Sites/web-bowling/favicon.ico
+[Thu Nov 03 11:02:42 2011] [error] [client 127.0.0.1] File does not exist: /Users/nacho/Sites/opinion-scale/css, referer: http://localhost/~nacho/opinion-scale/voter.html
+[Thu Nov 03 11:02:45 2011] [error] [client 127.0.0.1] File does not exist: /Users/nacho/Sites/web-bowling/favicon.ico
+[Thu Nov 03 11:02:57 2011] [error] [client 127.0.0.1] File does not exist: /Users/nacho/Sites/opinion-scale/css, referer: http://localhost/~nacho/opinion-scale/voter.html
+[Thu Nov 03 11:02:57 2011] [error] [client 127.0.0.1] File does not exist: /Users/nacho/Sites/web-bowling/favicon.ico
+[Thu Nov 03 11:03:18 2011] [error] [client 127.0.0.1] File does not exist: /Users/nacho/Sites/opinion-scale/css, referer: http://localhost/~nacho/opinion-scale/voter.html
+[Thu Nov 03 11:03:21 2011] [error] [client 127.0.0.1] File does not exist: /Users/nacho/Sites/web-bowling/favicon.ico
+[Thu Nov 03 11:04:44 2011] [error] [client 127.0.0.1] File does not exist: /Users/nacho/Sites/opinion-scale/css, referer: http://localhost/~nacho/opinion-scale/voter.html
+[Thu Nov 03 11:04:47 2011] [error] [client 127.0.0.1] File does not exist: /Users/nacho/Sites/web-bowling/favicon.ico
+[Thu Nov 03 11:06:56 2011] [error] [client 127.0.0.1] File does not exist: /Users/nacho/Sites/opinion-scale/css, referer: http://localhost/~nacho/opinion-scale/voter.html
+[Thu Nov 03 11:06:59 2011] [error] [client 127.0.0.1] File does not exist: /Users/nacho/Sites/web-bowling/favicon.ico
+[Thu Nov 03 11:08:13 2011] [error] [client 127.0.0.1] File does not exist: /Users/nacho/Sites/opinion-scale/css, referer: http://localhost/~nacho/opinion-scale/voter.html
+[Thu Nov 03 11:08:16 2011] [error] [client 127.0.0.1] File does not exist: /Users/nacho/Sites/web-bowling/favicon.ico
+[Thu Nov 03 11:08:55 2011] [error] [client 127.0.0.1] File does not exist: /Users/nacho/Sites/opinion-scale/css, referer: http://localhost/~nacho/opinion-scale/voter.html
+[Thu Nov 03 11:08:56 2011] [error] [client 127.0.0.1] File does not exist: /Users/nacho/Sites/web-bowling/favicon.ico
+[Thu Nov 03 11:09:17 2011] [error] [client 127.0.0.1] File does not exist: /Users/nacho/Sites/opinion-scale/css, referer: http://localhost/~nacho/opinion-scale/voter.html
+[Thu Nov 03 11:09:18 2011] [error] [client 127.0.0.1] File does not exist: /Users/nacho/Sites/web-bowling/favicon.ico
+[Thu Nov 03 11:09:32 2011] [error] [client 127.0.0.1] File does not exist: /Users/nacho/Sites/opinion-scale/css, referer: http://localhost/~nacho/opinion-scale/voter.html
+[Thu Nov 03 11:09:32 2011] [error] [client 127.0.0.1] File does not exist: /Users/nacho/Sites/web-bowling/favicon.ico
+[Thu Nov 03 11:09:39 2011] [error] [client 127.0.0.1] File does not exist: /Users/nacho/Sites/opinion-scale/css, referer: http://localhost/~nacho/opinion-scale/voter.html
+[Thu Nov 03 11:09:39 2011] [error] [client 127.0.0.1] File does not exist: /Users/nacho/Sites/web-bowling/favicon.ico
+[Thu Nov 03 11:11:15 2011] [error] [client 10.109.116.92] File does not exist: /Users/nacho/Sites/opinion-scale/css, referer: http://10.109.37.189/~nacho/opinion-scale/voter.html
+[Thu Nov 03 11:11:49 2011] [error] [client 10.109.116.92] File does not exist: /Users/nacho/Sites/opinion-scale/css, referer: http://10.109.37.189/~nacho/opinion-scale/voter.html
+[Thu Nov 03 11:12:38 2011] [error] [client 10.109.116.92] File does not exist: /Users/nacho/Sites/opinion-scale/css, referer: http://10.109.37.189/~nacho/opinion-scale/voter.html
+[Thu Nov 03 11:13:18 2011] [error] [client 10.109.116.92] File does not exist: /Users/nacho/Sites/opinion-scale/css, referer: http://10.109.37.189/~nacho/opinion-scale/voter.html
+[Thu Nov 03 11:13:27 2011] [error] [client 10.109.116.92] File does not exist: /Users/nacho/Sites/opinion-scale/css, referer: http://10.109.37.189/~nacho/opinion-scale/voter.html
+[Thu Nov 03 11:13:41 2011] [error] [client 10.109.116.92] File does not exist: /Users/nacho/Sites/opinion-scale/css, referer: http://10.109.37.189/~nacho/opinion-scale/voter.html
+[Thu Nov 03 11:13:46 2011] [error] [client 10.109.116.92] File does not exist: /Users/nacho/Sites/opinion-scale/css, referer: http://10.109.37.189/~nacho/opinion-scale/voter.html
+[Thu Nov 03 11:14:02 2011] [error] [client 10.109.116.92] File does not exist: /Users/nacho/Sites/opinion-scale/css, referer: http://10.109.37.189/~nacho/opinion-scale/voter.html
+[Thu Nov 03 11:21:41 2011] [error] [client 127.0.0.1] File does not exist: /Users/nacho/Sites/opinion-scale/css, referer: http://localhost/~nacho/opinion-scale/voter.html
+[Thu Nov 03 11:21:41 2011] [crit] [client 127.0.0.1] (13)Permission denied: /Users/nacho/Sites/opinion-scale/font/BPdots/.htaccess pcfg_openfile: unable to check htaccess file, ensure it is readable, referer: http://localhost/~nacho/opinion-scale/voter.html
+[Thu Nov 03 11:21:41 2011] [crit] [client 127.0.0.1] (13)Permission denied: /Users/nacho/Sites/opinion-scale/font/BPdots/.htaccess pcfg_openfile: unable to check htaccess file, ensure it is readable, referer: http://localhost/~nacho/opinion-scale/voter.html
+[Thu Nov 03 11:21:41 2011] [crit] [client 127.0.0.1] (13)Permission denied: /Users/nacho/Sites/opinion-scale/font/BPdots/.htaccess pcfg_openfile: unable to check htaccess file, ensure it is readable, referer: http://localhost/~nacho/opinion-scale/voter.html
+[Thu Nov 03 11:21:44 2011] [error] [client 127.0.0.1] File does not exist: /Users/nacho/Sites/web-bowling/favicon.ico
+[Thu Nov 03 11:22:42 2011] [error] [client 127.0.0.1] File does not exist: /Users/nacho/Sites/opinion-scale/css, referer: http://localhost/~nacho/opinion-scale/voter.html
+[Thu Nov 03 11:22:42 2011] [crit] [client 127.0.0.1] (13)Permission denied: /Users/nacho/Sites/opinion-scale/font/BPdots/.htaccess pcfg_openfile: unable to check htaccess file, ensure it is readable, referer: http://localhost/~nacho/opinion-scale/voter.html
+[Thu Nov 03 11:22:42 2011] [crit] [client 127.0.0.1] (13)Permission denied: /Users/nacho/Sites/opinion-scale/font/BPdots/.htaccess pcfg_openfile: unable to check htaccess file, ensure it is readable, referer: http://localhost/~nacho/opinion-scale/voter.html
+[Thu Nov 03 11:22:42 2011] [crit] [client 127.0.0.1] (13)Permission denied: /Users/nacho/Sites/opinion-scale/font/BPdots/.htaccess pcfg_openfile: unable to check htaccess file, ensure it is readable, referer: http://localhost/~nacho/opinion-scale/voter.html
+[Thu Nov 03 11:22:43 2011] [crit] [client 127.0.0.1] (13)Permission denied: /Users/nacho/Sites/opinion-scale/font/BPdots/.htaccess pcfg_openfile: unable to check htaccess file, ensure it is readable, referer: http://localhost/~nacho/opinion-scale/voter.html
+[Thu Nov 03 11:22:43 2011] [crit] [client 127.0.0.1] (13)Permission denied: /Users/nacho/Sites/opinion-scale/font/BPdots/.htaccess pcfg_openfile: unable to check htaccess file, ensure it is readable, referer: http://localhost/~nacho/opinion-scale/voter.html
+[Thu Nov 03 11:22:45 2011] [error] [client 127.0.0.1] File does not exist: /Users/nacho/Sites/web-bowling/favicon.ico
+[Thu Nov 03 11:23:18 2011] [error] [client 127.0.0.1] File does not exist: /Users/nacho/Sites/opinion-scale/css, referer: http://localhost/~nacho/opinion-scale/voter.html
+[Thu Nov 03 11:23:18 2011] [crit] [client 127.0.0.1] (13)Permission denied: /Users/nacho/Sites/opinion-scale/font/BPdots/.htaccess pcfg_openfile: unable to check htaccess file, ensure it is readable, referer: http://localhost/~nacho/opinion-scale/voter.html
+[Thu Nov 03 11:23:18 2011] [crit] [client 127.0.0.1] (13)Permission denied: /Users/nacho/Sites/opinion-scale/font/BPdots/.htaccess pcfg_openfile: unable to check htaccess file, ensure it is readable, referer: http://localhost/~nacho/opinion-scale/voter.html
+[Thu Nov 03 11:23:18 2011] [crit] [client 127.0.0.1] (13)Permission denied: /Users/nacho/Sites/opinion-scale/font/BPdots/.htaccess pcfg_openfile: unable to check htaccess file, ensure it is readable, referer: http://localhost/~nacho/opinion-scale/voter.html
+[Thu Nov 03 11:23:21 2011] [error] [client 127.0.0.1] File does not exist: /Users/nacho/Sites/web-bowling/favicon.ico
+[Thu Nov 03 11:23:47 2011] [error] [client 127.0.0.1] File does not exist: /Users/nacho/Sites/opinion-scale/css, referer: http://localhost/~nacho/opinion-scale/voter.html
+[Thu Nov 03 11:23:47 2011] [crit] [client 127.0.0.1] (13)Permission denied: /Users/nacho/Sites/opinion-scale/font/BPdots/.htaccess pcfg_openfile: unable to check htaccess file, ensure it is readable, referer: http://localhost/~nacho/opinion-scale/voter.html
+[Thu Nov 03 11:23:47 2011] [crit] [client 127.0.0.1] (13)Permission denied: /Users/nacho/Sites/opinion-scale/font/BPdots/.htaccess pcfg_openfile: unable to check htaccess file, ensure it is readable, referer: http://localhost/~nacho/opinion-scale/voter.html
+[Thu Nov 03 11:23:47 2011] [crit] [client 127.0.0.1] (13)Permission denied: /Users/nacho/Sites/opinion-scale/font/BPdots/.htaccess pcfg_openfile: unable to check htaccess file, ensure it is readable, referer: http://localhost/~nacho/opinion-scale/voter.html
+[Thu Nov 03 11:23:50 2011] [error] [client 127.0.0.1] File does not exist: /Users/nacho/Sites/web-bowling/favicon.ico
+[Thu Nov 03 11:25:34 2011] [error] [client 127.0.0.1] File does not exist: /Users/nacho/Sites/opinion-scale/css, referer: http://localhost/~nacho/opinion-scale/voter.html
+[Thu Nov 03 11:25:36 2011] [error] [client 127.0.0.1] File does not exist: /Users/nacho/Sites/web-bowling/favicon.ico
+[Thu Nov 03 11:26:19 2011] [error] [client 127.0.0.1] File does not exist: /Users/nacho/Sites/opinion-scale/css, referer: http://localhost/~nacho/opinion-scale/voter.html
+[Thu Nov 03 11:26:22 2011] [error] [client 127.0.0.1] File does not exist: /Users/nacho/Sites/web-bowling/favicon.ico
+[Thu Nov 03 11:26:52 2011] [error] [client 127.0.0.1] File does not exist: /Users/nacho/Sites/opinion-scale/css, referer: http://localhost/~nacho/opinion-scale/voter.html
+[Thu Nov 03 11:26:54 2011] [error] [client 127.0.0.1] File does not exist: /Users/nacho/Sites/web-bowling/favicon.ico
+[Thu Nov 03 11:27:18 2011] [error] [client 127.0.0.1] File does not exist: /Users/nacho/Sites/opinion-scale/css, referer: http://localhost/~nacho/opinion-scale/voter.html
+[Thu Nov 03 11:27:20 2011] [error] [client 127.0.0.1] File does not exist: /Users/nacho/Sites/web-bowling/favicon.ico
+[Thu Nov 03 11:27:29 2011] [error] [client 127.0.0.1] File does not exist: /Users/nacho/Sites/opinion-scale/css, referer: http://localhost/~nacho/opinion-scale/voter.html
+[Thu Nov 03 11:27:29 2011] [error] [client 127.0.0.1] File does not exist: /Users/nacho/Sites/web-bowling/favicon.ico
+[Thu Nov 03 11:28:39 2011] [error] [client 127.0.0.1] File does not exist: /Users/nacho/Sites/opinion-scale/css, referer: http://localhost/~nacho/opinion-scale/voter.html
+[Thu Nov 03 11:28:41 2011] [error] [client 127.0.0.1] File does not exist: /Users/nacho/Sites/web-bowling/favicon.ico
+[Thu Nov 03 11:31:34 2011] [error] [client 127.0.0.1] File does not exist: /Users/nacho/Sites/opinion-scale/css, referer: http://localhost/~nacho/opinion-scale/voter.html
+[Thu Nov 03 11:31:36 2011] [error] [client 127.0.0.1] File does not exist: /Users/nacho/Sites/web-bowling/favicon.ico
+[Thu Nov 03 11:31:49 2011] [error] [client 127.0.0.1] File does not exist: /Users/nacho/Sites/opinion-scale/css, referer: http://localhost/~nacho/opinion-scale/voter.html
+[Thu Nov 03 11:31:49 2011] [error] [client 127.0.0.1] File does not exist: /Users/nacho/Sites/web-bowling/favicon.ico
+[Thu Nov 03 11:32:11 2011] [error] [client 127.0.0.1] File does not exist: /Users/nacho/Sites/opinion-scale/css, referer: http://localhost/~nacho/opinion-scale/voter.html
+[Thu Nov 03 11:32:13 2011] [error] [client 127.0.0.1] File does not exist: /Users/nacho/Sites/web-bowling/favicon.ico
+[Thu Nov 03 11:32:40 2011] [error] [client 127.0.0.1] File does not exist: /Users/nacho/Sites/opinion-scale/css, referer: http://localhost/~nacho/opinion-scale/voter.html
+[Thu Nov 03 11:32:43 2011] [error] [client 127.0.0.1] File does not exist: /Users/nacho/Sites/web-bowling/favicon.ico
+[Thu Nov 03 11:33:02 2011] [error] [client 10.109.116.92] File does not exist: /Users/nacho/Sites/opinion-scale/css, referer: http://10.109.37.189/~nacho/opinion-scale/voter.html
+[Thu Nov 03 13:16:18 2011] [error] [client 127.0.0.1] File does not exist: /Users/nacho/Sites/opinion-scale/css, referer: http://localhost/~nacho/opinion-scale/voter.html
+[Thu Nov 03 13:16:21 2011] [error] [client 127.0.0.1] File does not exist: /Users/nacho/Sites/web-bowling/favicon.ico
+[Thu Nov 03 13:16:34 2011] [error] [client 127.0.0.1] File does not exist: /Users/nacho/Sites/opinion-scale/css, referer: http://localhost/~nacho/opinion-scale/voter.html
+[Thu Nov 03 13:16:34 2011] [error] [client 127.0.0.1] File does not exist: /Users/nacho/Sites/web-bowling/favicon.ico
+[Thu Nov 03 14:06:35 2011] [error] [client 10.109.38.188] File does not exist: /Users/nacho/Sites/web-bowling/favicon.ico
+[Thu Nov 03 16:01:02 2011] [error] [client 10.109.117.108] File does not exist: /Users/nacho/Sites/web-bowling/Belarc.html
+[Fri Nov 04 08:42:00 2011] [error] [client 127.0.0.1] File does not exist: /Users/nacho/Sites/opinion-scale/css, referer: http://localhost/~nacho/opinion-scale/voter.html
+[Fri Nov 04 08:42:03 2011] [error] [client 127.0.0.1] File does not exist: /Users/nacho/Sites/web-bowling/favicon.ico
+[Fri Nov 04 08:42:33 2011] [error] [client 127.0.0.1] File does not exist: /Users/nacho/Sites/opinion-scale/css, referer: http://localhost/~nacho/opinion-scale/voter.html
+[Fri Nov 04 08:42:36 2011] [error] [client 127.0.0.1] File does not exist: /Users/nacho/Sites/web-bowling/favicon.ico
+[Fri Nov 04 08:42:49 2011] [error] [client 127.0.0.1] File does not exist: /Users/nacho/Sites/opinion-scale/css, referer: http://localhost/~nacho/opinion-scale/voter.html
+[Fri Nov 04 08:42:49 2011] [error] [client 127.0.0.1] File does not exist: /Users/nacho/Sites/web-bowling/favicon.ico
+[Fri Nov 04 08:43:03 2011] [error] [client 127.0.0.1] File does not exist: /Users/nacho/Sites/opinion-scale/css, referer: http://localhost/~nacho/opinion-scale/voter.html
+[Fri Nov 04 08:43:03 2011] [error] [client 127.0.0.1] File does not exist: /Users/nacho/Sites/web-bowling/favicon.ico
+[Fri Nov 04 08:43:17 2011] [error] [client 127.0.0.1] File does not exist: /Users/nacho/Sites/opinion-scale/css, referer: http://localhost/~nacho/opinion-scale/voter.html
+[Fri Nov 04 08:43:17 2011] [error] [client 127.0.0.1] File does not exist: /Users/nacho/Sites/web-bowling/favicon.ico
+[Fri Nov 04 08:43:28 2011] [error] [client 127.0.0.1] File does not exist: /Users/nacho/Sites/opinion-scale/css, referer: http://localhost/~nacho/opinion-scale/voter.html
+[Fri Nov 04 08:43:28 2011] [error] [client 127.0.0.1] File does not exist: /Users/nacho/Sites/web-bowling/favicon.ico
+[Fri Nov 04 09:55:26 2011] [error] [client 127.0.0.1] File does not exist: /Users/nacho/Sites/web-bowling/favicon.ico
+[Fri Nov 04 09:55:28 2011] [error] [client 127.0.0.1] File does not exist: /Users/nacho/Sites/web-bowling/favicon.ico
+[Fri Nov 04 09:55:54 2011] [error] [client 127.0.0.1] File does not exist: /Users/nacho/Sites/web-bowling/favicon.ico
+[Fri Nov 04 09:58:00 2011] [error] [client 127.0.0.1] File does not exist: /Users/nacho/Sites/web-bowling/favicon.ico
+[Fri Nov 04 09:58:15 2011] [error] [client 127.0.0.1] File does not exist: /Users/nacho/Sites/web-bowling/favicon.ico
+[Fri Nov 04 09:59:36 2011] [error] [client 127.0.0.1] File does not exist: /Users/nacho/Sites/web-bowling/favicon.ico
+[Fri Nov 04 10:00:19 2011] [error] [client 127.0.0.1] File does not exist: /Users/nacho/Sites/web-bowling/favicon.ico
+[Fri Nov 04 10:01:48 2011] [error] [client 127.0.0.1] File does not exist: /Users/nacho/Sites/web-bowling/favicon.ico
+[Fri Nov 04 10:02:18 2011] [error] [client 127.0.0.1] File does not exist: /Users/nacho/Sites/web-bowling/favicon.ico
+[Fri Nov 04 10:03:15 2011] [error] [client 127.0.0.1] File does not exist: /Users/nacho/Sites/web-bowling/favicon.ico
+[Fri Nov 04 10:03:25 2011] [error] [client 127.0.0.1] File does not exist: /Users/nacho/Sites/web-bowling/favicon.ico
+[Fri Nov 04 10:03:27 2011] [error] [client 127.0.0.1] File does not exist: /Users/nacho/Sites/web-bowling/favicon.ico
+[Fri Nov 04 10:03:37 2011] [error] [client 127.0.0.1] File does not exist: /Users/nacho/Sites/web-bowling/favicon.ico
+[Fri Nov 04 10:03:39 2011] [error] [client 127.0.0.1] File does not exist: /Users/nacho/Sites/web-bowling/favicon.ico
+[Fri Nov 04 10:03:42 2011] [error] [client 127.0.0.1] File does not exist: /Users/nacho/Sites/web-bowling/favicon.ico
+[Fri Nov 04 10:03:46 2011] [error] [client 127.0.0.1] File does not exist: /Users/nacho/Sites/web-bowling/favicon.ico
+[Fri Nov 04 10:03:51 2011] [error] [client 127.0.0.1] File does not exist: /Users/nacho/Sites/web-bowling/favicon.ico
+[Fri Nov 04 10:05:25 2011] [error] [client 127.0.0.1] File does not exist: /Users/nacho/Sites/web-bowling/favicon.ico
+[Fri Nov 04 10:05:40 2011] [error] [client 127.0.0.1] File does not exist: /Users/nacho/Sites/web-bowling/favicon.ico
+[Fri Nov 04 10:05:59 2011] [error] [client 127.0.0.1] File does not exist: /Users/nacho/Sites/web-bowling/favicon.ico
+[Fri Nov 04 10:06:36 2011] [error] [client 127.0.0.1] File does not exist: /Users/nacho/Sites/web-bowling/favicon.ico
+[Fri Nov 04 10:06:49 2011] [error] [client 127.0.0.1] File does not exist: /Users/nacho/Sites/web-bowling/favicon.ico
+[Fri Nov 04 10:07:41 2011] [error] [client 127.0.0.1] File does not exist: /Users/nacho/Sites/web-bowling/favicon.ico
+[Fri Nov 04 10:09:25 2011] [error] [client 127.0.0.1] File does not exist: /Users/nacho/Sites/web-bowling/favicon.ico
+[Fri Nov 04 10:09:29 2011] [error] [client 127.0.0.1] File does not exist: /Users/nacho/Sites/web-bowling/favicon.ico
+[Fri Nov 04 10:09:34 2011] [error] [client 127.0.0.1] File does not exist: /Users/nacho/Sites/web-bowling/favicon.ico
+[Fri Nov 04 10:10:35 2011] [error] [client 127.0.0.1] File does not exist: /Users/nacho/Sites/web-bowling/favicon.ico
+[Fri Nov 04 11:29:40 2011] [error] [client 127.0.0.1] File does not exist: /Users/nacho/Sites/web-bowling/favicon.ico
+[Fri Nov 04 11:30:33 2011] [error] [client 127.0.0.1] File does not exist: /Users/nacho/Sites/opinion-scale/css, referer: http://localhost/~nacho/opinion-scale/voter.html
+[Fri Nov 04 11:30:35 2011] [error] [client 127.0.0.1] File does not exist: /Users/nacho/Sites/web-bowling/favicon.ico
